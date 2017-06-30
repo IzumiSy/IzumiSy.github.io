@@ -1,2 +1,2 @@
-# izumisy.github.io
-> izumisy.github.io
+# IzumiSy.github.io
+> IzumiSy.github.io
