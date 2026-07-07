@@ -2,7 +2,7 @@
 
 Senior Fullstack Engineer · Frontend-focused · React · TypeScript · Scala
 
-[LinkedIn](https://linkedin.com/in/izumisy) · [GitHub](https://github.com/IzumiSy) · [Blog](https://izumisy.work/) · Chiba, Japan
+linkedin.com/in/izumisy · github.com/IzumiSy · izumisy.work · Chiba, Japan
 
 ---
 
