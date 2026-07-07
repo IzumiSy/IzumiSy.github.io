@@ -1,26 +1,12 @@
 {
   "name": "izumisy.github.io",
-  "version": "1.0.0",
-  "description": "> IzumiSy.github.io",
+  "private": true,
   "type": "module",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "vite",
-    "preview": "vite preview",
-    "build": "vite build"
+    "build": "vite build",
+    "preview": "vite preview"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/IzumiSy/IzumiSy.github.io.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-
-  "bugs": {
-    "url": "https://github.com/IzumiSy/IzumiSy.github.io/issues"
-  },
-  "homepage": "https://github.com/IzumiSy/IzumiSy.github.io#readme",
   "packageManager": "pnpm@11.9.0",
   "devDependencies": {
     "vite": "^6"
