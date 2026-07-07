@@ -59,6 +59,11 @@ I love leveraging type systems (Elm, Scala, TypeScript) to raise quality and DX 
 
 - Overhauled CI/CD pipeline and code-review process, achieving a 10× improvement in frontend release velocity.
 - Automated development workflows with GitHub Actions (ChatOps, IssueOps), enabling extremely high-frequency product iteration.
+- Authored a two-part blog series on Elm opaque type design for form fields to level up the team's type-design skills; used internally as a teaching resource for onboarding and code-review discussions.
+
+> **Designing Opaque Type for form fields in Elm** — Two-part walkthrough on encapsulating validation logic into opaque types with explicit state transitions (Partial → Valid/Invalid), then composing reusable field modules via delegation instead of inheritance.  
+> [dev.to/izumisy/designing-opaque-type-for-form-fields-in-elm-4299](https://dev.to/izumisy/designing-opaque-type-for-form-fields-in-elm-4299)  
+> [dev.to/izumisy/designing-opaque-type-for-form-fields-in-elm-part-2-251j](https://dev.to/izumisy/designing-opaque-type-for-form-fields-in-elm-part-2-251j)
 
 ### Lead Software Engineer
 **Unipos** · Tokyo, Japan · Apr 2020 – Apr 2022
