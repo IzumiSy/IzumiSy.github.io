@@ -5,11 +5,29 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" href="/favicon.png">
   <title>Seiya Izumi</title>
-  <link rel="stylesheet" href="/src/style.css">
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; min-height: 100vh; display: flex; align-items: center; justify-content: center; background: #fafafa; }
+    .profile { text-align: center; }
+    .avatar { width: 120px; height: 120px; border-radius: 50%; margin-bottom: 1.5rem; }
+    h1 { font-size: 1.5rem; margin-bottom: 0.25rem; }
+    .subtitle { color: #555; margin-bottom: 1.5rem; }
+    .links { display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; }
+    .links a { color: #0366d6; text-decoration: none; font-size: 0.95rem; }
+    .links a:hover { text-decoration: underline; }
+  </style>
 </head>
 <body>
-  <div id="content"></div>
-  <button class="print-btn">Download PDF</button>
-  <script type="module" src="/src/main.js"></script>
+  <div class="profile">
+    <img class="avatar" src="/avatar.png" alt="Seiya Izumi">
+    <h1>Seiya Izumi</h1>
+    <p class="subtitle">Senior Fullstack Engineer</p>
+    <nav class="links">
+      <a href="/resume/">Resume</a>
+      <a href="https://github.com/IzumiSy">GitHub</a>
+      <a href="https://linkedin.com/in/izumisy">LinkedIn</a>
+      <a href="https://izumisy.work/">Blog (JA)</a>
+    </nav>
+  </div>
 </body>
 </html>
