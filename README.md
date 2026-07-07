@@ -1,2 +1,13 @@
-# IzumiSy.github.io
-> IzumiSy.github.io
+# about.izumisy.work
+
+## Setup
+
+```bash
+pnpm install
+```
+
+## Development
+
+```bash
+pnpm build
+```
