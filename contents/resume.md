@@ -92,7 +92,7 @@ I love leveraging type systems (Elm, Scala, TypeScript) to raise quality and DX 
 
 **Backend:** Scala · Go · Node.js · Ruby (Rails/Sinatra) · PostgreSQL · Redis · REST & GraphQL APIs
 
-**Platform:** Google Cloud Platform · GKE · Docker · GitHub Actions · CircleCI · Firebase
+**Platform:** Google Cloud Platform · Docker · GitHub Actions · CircleCI · Firebase
 
 **Languages:** TypeScript · Scala · Go · JavaScript · Ruby · Elm · ShellScript · C
 
