@@ -1,0 +1,31 @@
+{
+  "name": "izumisy.github.io",
+  "version": "1.0.0",
+  "description": "> IzumiSy.github.io",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "preview": "vite preview",
+    "build": "vite build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IzumiSy/IzumiSy.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+
+  "bugs": {
+    "url": "https://github.com/IzumiSy/IzumiSy.github.io/issues"
+  },
+  "homepage": "https://github.com/IzumiSy/IzumiSy.github.io#readme",
+  "devDependencies": {
+    "vite": "^6"
+  },
+  "dependencies": {
+    "marked": "^15",
+    "html2pdf.js": "^0.10"
+  }
+}
